@@ -5,4 +5,4 @@ requests through a command line.
 
 # Usage:
 
-  ./httpserver [-t threads] <port>
+  ./httpserver [-t threads] [port]
